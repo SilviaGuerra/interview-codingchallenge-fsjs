@@ -1,0 +1,15 @@
+.card {
+  width: 250px;
+  border: 1px solid black;
+  display: inline-block;
+  margin: 8px;
+}
+
+.cardTitle{
+  display: flex;
+  justify-content: center;
+}
+
+h2{
+  display: inline-block;
+}
